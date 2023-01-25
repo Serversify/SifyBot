@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "nodejs": "^0.0.0"
+  },
+  "name": "sifybot",
+  "description": "Sify bot is the official discord bot for serversify",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serversify/SifyBot.git"
+  },
+  "keywords": [],
+  "author": "StillSlow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Serversify/SifyBot/issues"
+  },
+  "homepage": "https://github.com/Serversify/SifyBot#readme"
+}
