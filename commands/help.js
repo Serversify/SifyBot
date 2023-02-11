@@ -6,6 +6,6 @@ module.exports = {
        .setName('help')
        .setDescription('Shows all commands'),
    async execute(interaction) {
-       await interaction.reply('This command is not available for the moment. Stay tuned for');
+       await interaction.reply('This command is not available for the moment. Stay tuned for the moment.');
       },
    };
